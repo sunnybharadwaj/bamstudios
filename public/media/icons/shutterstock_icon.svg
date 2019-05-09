@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 396.918 396.918">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_24" data-name="Group 24" transform="translate(-610 -281)">
+    <g id="Rectangle_45" data-name="Rectangle 45" class="cls-1" transform="translate(643 311)">
+      <rect class="cls-3" width="335" height="346"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="334" height="345"/>
+    </g>
+    <path id="shutterstock" class="cls-2" d="M0,22.652V374.266a22.652,22.652,0,0,0,22.652,22.652H374.266a22.652,22.652,0,0,0,22.652-22.652V22.652A22.653,22.653,0,0,0,374.266,0H22.652A22.651,22.651,0,0,0,0,22.652Zm180.96,85.57H118.67a11.356,11.356,0,0,0-11.344,11.344v59.92H55.353v-59.92A63.39,63.39,0,0,1,118.67,56.249h62.291v51.973Zm160.6,169.13a63.39,63.39,0,0,1-63.317,63.317H215.957V288.7h62.291a11.356,11.356,0,0,0,11.344-11.344v-59.92h51.973v59.92Z" transform="translate(610 281)"/>
+  </g>
+</svg>

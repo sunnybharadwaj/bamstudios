@@ -1,0 +1,58 @@
+body, html {
+  font-family: 'Raleway', sans-serif;
+  background: #191919;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+nav, .top-nav {
+  background: #191919;
+  .brand {
+    line-height: 0.9;
+    letter-spacing: 0em;
+    .font-bold {
+      letter-spacing: -0.06em;
+    }
+  }
+
+  .about {
+    p.intro-text {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    a {
+      letter-spacing: 0.08em;
+      display: block;
+      text-transform: uppercase;
+      font-size: 14px;
+      text-decoration: none;
+      margin-bottom: 1.3em;
+      color: white;
+    }
+  }
+
+  .social-icon img{
+    max-width: 15px;
+  }
+
+
+
+
+
+.nav-list {
+  a.nav-item {
+    letter-spacing: 0.08em;
+    display: block;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-decoration: none;
+    margin-bottom: 1.3em;
+    color: white;
+  }
+}
+
+  .social-icons {
+
+  }
+
+}
